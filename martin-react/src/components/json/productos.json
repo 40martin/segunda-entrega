@@ -1,0 +1,19 @@
+[
+    {"idx":1, "titulo":"Nike React Infinity Run Flyknit 3", "descripcion":"Zapatillas de Running para Hombre", "imagen":"https://nikearprod.vtexassets.com/arquivos/ids/453512-1000-1000?v=1771551480&width=1000&height=1000&aspect=true", 
+    "precio":77999, "categoria":"hombre", "stock":10},
+
+    {"idx":2, "titulo":"Nike React Infinity Run Flyknit 3", "descripcion":"Zapatillas de Running para Hombre", "imagen":"https://nikearprod.vtexassets.com/arquivos/ids/407335-1000-1000?v=1771599148&width=1000&height=1000&aspect=true", 
+    "precio":50000, "categoria":"hombre", "stock":7},
+
+    {"idx":3, "titulo":"Nike Air Zoom Pegasus 39 Shield", "descripcion":"Zapatillas de Running para Hombre", "imagen":"https://nikearprod.vtexassets.com/arquivos/ids/453512/DO7625_002_A_PREM.jpg?v=638149296562800000", 
+    "precio":100000, "categoria":"hombre", "stock":4},
+    
+    {"idx":4, "titulo":"Nike Pegasus Turbo Next Nature", "descripcion":"Zapatillas de Running para Mujer", "imagen":"https://nikearprod.vtexassets.com/arquivos/ids/453184-1000-1000?v=1771513721&width=1000&height=1000&aspect=true", 
+    "precio":75000, "categoria":"Mujer", "stock":9},
+
+    {"idx":5, "titulo":"Nike Air Zoom Pegasus 39", "descripcion":"Zapatillas de Running para Mujer", "imagen":"https://nikearprod.vtexassets.com/arquivos/ids/407234-1000-1000?v=1771606470&width=1000&height=1000&aspect=true", 
+    "precio":55000, "categoria":"Mujer", "stock":6},
+
+    {"idx":6, "titulo":"Nike ZoomX Invincible Run Flyknit 2", "descripcion":"Zapatillas de Running para Mujer", "imagen":"https://nikearprod.vtexassets.com/arquivos/ids/489631-1000-1000?v=1771467753&width=1000&height=1000&aspect=true", 
+    "precio":66000, "categoria":"Mujer", "stock":8}
+]
